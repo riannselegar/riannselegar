@@ -3,11 +3,11 @@
 
 ### Hi, mates! My name is Riann Selegar 👋
 
+- 😄 My pronouns are he/him
 - 💻 I'm working for over a year as Cloud Engineer
 - 🌱 Currently learning observability tools
 - 💬 Ask me about DevOps, Cloud and Python 
 - 📫 Contact me at riannselegar@gmail.com
-- 😄 My pronouns are he/him
 
 
 <div style="display: inline_block"><br>
@@ -26,7 +26,7 @@
 ##
 
 <div>
-    <a href = "mailto:riannselegar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="mailto:riannselegar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/riannselegar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/riannselegar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
